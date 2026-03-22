@@ -10,7 +10,16 @@ import Footer from "@/components/Footer"
 
 const products: Array<Product> = [
   {
-    id: "03",
+    id: "01",
+    name: "Nomenclature",
+    tag: "Text Localisation",
+    description: "An Autonomous Text Localisation engine that can make any website available in 150+ different languages.",
+    status: "Open Source",
+    tech: ["ReactJS", "Python", "LangChain"],
+    href: "https://github.com/sourabhmandal/nomenclature",
+  },
+  {
+    id: "02",
     name: "Sambhav Copilot",
     tag: "Hiring Intelligence",
     description: "An AI assistant that helps recruiters screen, and engage candidates more effectively. This tool can help companies to streamline their hiring process and improve candidate experience.",
