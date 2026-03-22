@@ -3,7 +3,7 @@ export default function StatBar() {
     { label: "Products Shipped", value: "01" },
     { label: "Open Source Repos", value: "01" },
     { label: "Engineers", value: "01" },
-    { label: "Impacted Businesses", value: "02" },
+    { label: "Impacted Businesses", value: "-" },
   ];
   return (
     <section className="border-b border-black" id="products">
