@@ -13,9 +13,9 @@ const products: Array<Product> = [
     id: "01",
     name: "Nomenclature",
     tag: "Text Localisation",
-    description: "An Autonomous Text Localisation engine that can make any website available in 150+ different languages.",
-    status: "Open Source",
-    tech: ["ReactJS", "Python", "LangChain"],
+    description: "An Autonomous Text Localisation engine that can make any website available in 150+ different languages. Our Enterprise offering includes more reliable text localisation and deep integration with their products",
+    status: "Developing Harness Layer",
+    tech: ["Go", "Google ADK"],
     href: "https://github.com/sourabhmandal/nomenclature",
   },
   {
